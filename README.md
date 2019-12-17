@@ -29,8 +29,8 @@ It’s ok if you can only buy a fraction of stocks with the money you have (That
 
 ## Example:
 
-Let’s say A, B, C, D… J are the 10 companies in the superset.
-On Jan 1st, 2015 stocks A, C, D gave the highest returns  while the stocks E, F, J gave the lowest returns 
+1. Let’s say A, B, C, D… J are the 10 companies in the superset.
+2. On Jan 1st, 2015 stocks A, C, D gave the highest returns  while the stocks E, F, J gave the lowest returns 
 On 2nd Jan 2015, Since its the first day and you are supposed to invest $100 into each portfolio, that is $100 in portfolio of stocks which gave highest returns(Let’s call this “Port-X”) and $100 on portfolio of stocks which gave the lowest returns(Let’s call this “Port-Y”)
 Split $100 of Port-X and invest $33.33 into A, $33.33 into C and $33.33 into D
 Split $100 of Port-Y and invest $33.33 into E, $33.33 into F and $33.33 into J

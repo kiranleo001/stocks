@@ -31,11 +31,11 @@ It’s ok if you can only buy a fraction of stocks with the money you have (That
 
 1. Let’s say A, B, C, D… J are the 10 companies in the superset.
 2. On Jan 1st, 2015 stocks A, C, D gave the highest returns  while the stocks E, F, J gave the lowest returns 
-On 2nd Jan 2015, Since its the first day and you are supposed to invest $100 into each portfolio, that is $100 in portfolio of stocks which gave highest returns(Let’s call this “Port-X”) and $100 on portfolio of stocks which gave the lowest returns(Let’s call this “Port-Y”)
-Split $100 of Port-X and invest $33.33 into A, $33.33 into C and $33.33 into D
-Split $100 of Port-Y and invest $33.33 into E, $33.33 into F and $33.33 into J
-On 3rd Jan 2015, see which stocks gave the highest returns on 2nd Jan. Let’s say stocks H, I, J gave the highest returns.
-Sell A, C, D which were bought on 2nd Jan. Let’s say you got $102.5 by selling these stocks. Split the money equally and invest $34.2 into H, $34.2 into I and $34.2 into J
-Similarly if on 2nd Jan lets say D, E, F gave the lowest returns
-Sell E, F, J on 3rd Jan and invest the money in D, E, F
-Repeat this till the end of time
+3. On 2nd Jan 2015, Since its the first day and you are supposed to invest $100 into each portfolio, that is $100 in portfolio of stocks which gave highest returns(Let’s call this “Port-X”) and $100 on portfolio of stocks which gave the lowest returns(Let’s call this “Port-Y”)
+4. Split $100 of Port-X and invest $33.33 into A, $33.33 into C and $33.33 into D
+5. Split $100 of Port-Y and invest $33.33 into E, $33.33 into F and $33.33 into J
+6. On 3rd Jan 2015, see which stocks gave the highest returns on 2nd Jan. Let’s say stocks H, I, J gave the highest returns.
+7. Sell A, C, D which were bought on 2nd Jan. Let’s say you got $102.5 by selling these stocks. Split the money equally and invest $34.2 into H, $34.2 into I and $34.2 into J
+8. Similarly if on 2nd Jan lets say D, E, F gave the lowest returns
+9. Sell E, F, J on 3rd Jan and invest the money in D, E, F
+10. Repeat this till the end of time
